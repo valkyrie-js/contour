@@ -1,4 +1,4 @@
-# contour
+# contours
 Experimental CSS library
 
 Philip Hultgren & Nicholas Kircher, building the future of the web
